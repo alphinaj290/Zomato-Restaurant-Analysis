@@ -1,4 +1,4 @@
-## Zomato-Restaurant-Analysis
+## Zomato-Restaurant-Analysis ![Excel](https://img.shields.io/badge/Excel-green)
 This project focuses on analyzing data to develop strategies for opening new restaurants. The analysis was conducted using Excel, with a focus on creating visually appealing and informative charts, tables, and dashboards. Key aspects of the project include:
 
 - __Data Insights:__ Evaluation of restaurant performance metrics such as cuisines, customer ratings, and votes.
@@ -7,6 +7,8 @@ This project focuses on analyzing data to develop strategies for opening new res
 - __Outcome:__ Delivered actionable insights on ideal cuisine offerings, effective market entry strategies, and recommended cities for restaurant expansion.
 
 - Tools Used: __Excel__, __PowerPoint__.
+
+
   
 This project is a comprehensive approach to leveraging data for strategic decision-making in the restaurant industry.
 
