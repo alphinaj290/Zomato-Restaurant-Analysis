@@ -1,3 +1,7 @@
-# Zomato-Restaurant-Analysis
-Worked on deeper analysis on Restaurants  located in different countries  and generated insights for opening new restaurants for Zomato using visualization in charts and tables.
-Created a dashboard in excel depicting the  past years performance of restaurants and customer feedback which would provide some insights to make decision on opening new restaurants for Zomato in  the suggested countries.
+## Zomato-Restaurant-Analysis
+Conducted a comprehensive analysis of restaurant ratings, customer preferences, and the competitive landscape across key cities in Indonesia, the Philippines, Turkey, and the UAE to identify optimal expansion opportunities for Zomato.
+
+Evaluated average restaurant ratings, customer engagement through voting trends, and popular cuisine preferences to uncover drivers of customer satisfaction.
+Analyzed the competitive environment by assessing the density and distribution of existing restaurants in the target cities.
+Delivered actionable insights on ideal cuisine offerings, effective market entry strategies, and recommended cities for restaurant expansion.
+Tools Used: Excel, PowerPoint
